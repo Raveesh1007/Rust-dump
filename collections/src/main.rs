@@ -26,7 +26,6 @@ fn even_values(vec: &Vec<i32>) {
         }
         new_vec.push(*i);
     }
-    // println!("Even elements {:?}",new_vec)
 }
 
 fn hashmap() {
